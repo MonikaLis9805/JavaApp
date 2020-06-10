@@ -1,0 +1,381 @@
+﻿INFO    2020-06-10 17:29:24,699 [pool-1-thread-1] CardPanel  - 1 proba połączenia z: https://www.worldometers.info/coronavirus/
+INFO    2020-06-10 17:29:26,496 [pool-1-thread-1] CardPanel  - Nawiązano połączenie z: https://www.worldometers.info/coronavirus/
+INFO    2020-06-10 17:29:26,496 [pool-1-thread-1] CardPanel  - Parsowanie...
+INFO    2020-06-10 17:29:38,408 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/germany/
+INFO    2020-06-10 17:29:38,970 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/germany/
+INFO    2020-06-10 17:29:38,970 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:29:39,095 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/russia/
+INFO    2020-06-10 17:29:39,689 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/russia/
+INFO    2020-06-10 17:29:39,689 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:29:39,705 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/poland/
+INFO    2020-06-10 17:29:40,283 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/poland/
+INFO    2020-06-10 17:29:40,283 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:29:40,392 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/slovakia/
+INFO    2020-06-10 17:29:40,611 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/slovakia/
+INFO    2020-06-10 17:29:40,611 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:29:40,642 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/us/
+INFO    2020-06-10 17:29:41,236 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/us/
+INFO    2020-06-10 17:29:41,236 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:29:41,486 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/brazil/
+INFO    2020-06-10 17:29:42,032 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/brazil/
+INFO    2020-06-10 17:29:42,032 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:29:42,142 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/spain/
+INFO    2020-06-10 17:29:42,361 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/spain/
+INFO    2020-06-10 17:29:42,361 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:29:42,486 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/uk/
+INFO    2020-06-10 17:29:43,032 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/uk/
+INFO    2020-06-10 17:29:43,032 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:29:43,126 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/italy/
+INFO    2020-06-10 17:29:43,329 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/italy/
+INFO    2020-06-10 17:29:43,329 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:29:43,470 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/france/
+INFO    2020-06-10 17:29:43,689 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/france/
+INFO    2020-06-10 17:29:43,689 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:29:43,800 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/turkey/
+INFO    2020-06-10 17:29:44,386 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/turkey/
+INFO    2020-06-10 17:29:44,386 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:29:44,496 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/india/
+INFO    2020-06-10 17:29:44,699 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/india/
+INFO    2020-06-10 17:29:44,699 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:29:44,808 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/iran/
+INFO    2020-06-10 17:29:45,027 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/iran/
+INFO    2020-06-10 17:29:45,027 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:29:45,152 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/canada/
+INFO    2020-06-10 17:29:45,370 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/canada/
+INFO    2020-06-10 17:29:45,370 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:29:45,486 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/china/
+INFO    2020-06-10 17:29:45,690 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/china/
+INFO    2020-06-10 17:29:45,690 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:29:45,800 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/chile/
+INFO    2020-06-10 17:29:46,346 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/chile/
+INFO    2020-06-10 17:29:46,346 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:29:46,456 [AWT-EventQueue-0] WykresPanel  - Kraj:Niemcy, Liczba zakazonych:186,525, Liczba zgonow:8,831, Liczba uleczonych:170,700
+INFO    2020-06-10 17:29:46,456 [AWT-EventQueue-0] WykresPanel  - Kraj:Rosja, Liczba zakazonych:493,657, Liczba zgonow:6,358, Liczba uleczonych:252,783
+INFO    2020-06-10 17:29:46,456 [AWT-EventQueue-0] WykresPanel  - Kraj:Polska, Liczba zakazonych:27,668, Liczba zgonow:1,191, Liczba uleczonych:13,411
+INFO    2020-06-10 17:29:46,456 [AWT-EventQueue-0] WykresPanel  - Kraj:Słowacja, Liczba zakazonych:1,533, Liczba zgonow:28, Liczba uleczonych:1,404
+INFO    2020-06-10 17:29:46,456 [AWT-EventQueue-0] WykresPanel  - Kraj:USA, Liczba zakazonych:2,049,121, Liczba zgonow:114,273, Liczba uleczonych:788,967
+INFO    2020-06-10 17:29:46,456 [AWT-EventQueue-0] WykresPanel  - Kraj:Brazylia, Liczba zakazonych:742,084, Liczba zgonow:38,497, Liczba uleczonych:325,602
+INFO    2020-06-10 17:29:46,456 [AWT-EventQueue-0] WykresPanel  - Kraj:Hiszpania, Liczba zakazonych:289,046, Liczba zgonow:27,136, Liczba uleczonych:N/A
+INFO    2020-06-10 17:29:46,456 [AWT-EventQueue-0] WykresPanel  - Kraj:UK, Liczba zakazonych:289,140, Liczba zgonow:40,883, Liczba uleczonych:N/A
+INFO    2020-06-10 17:29:46,456 [AWT-EventQueue-0] WykresPanel  - Kraj:Wlochy, Liczba zakazonych:235,561, Liczba zgonow:34,043, Liczba uleczonych:168,646
+INFO    2020-06-10 17:29:46,456 [AWT-EventQueue-0] WykresPanel  - Kraj:Francja, Liczba zakazonych:154,591, Liczba zgonow:29,296, Liczba uleczonych:71,506
+INFO    2020-06-10 17:29:46,456 [AWT-EventQueue-0] WykresPanel  - Kraj:Turcja, Liczba zakazonych:172,114, Liczba zgonow:4,729, Liczba uleczonych:144,598
+INFO    2020-06-10 17:29:46,456 [AWT-EventQueue-0] WykresPanel  - Kraj:Indie, Liczba zakazonych:280,067, Liczba zgonow:7,797, Liczba uleczonych:137,022
+INFO    2020-06-10 17:29:46,456 [AWT-EventQueue-0] WykresPanel  - Kraj:Iran, Liczba zakazonych:177,938, Liczba zgonow:8,506, Liczba uleczonych:140,590
+INFO    2020-06-10 17:29:46,456 [AWT-EventQueue-0] WykresPanel  - Kraj:Kanada, Liczba zakazonych:96,653, Liczba zgonow:7,897, Liczba uleczonych:55,572
+INFO    2020-06-10 17:29:46,456 [AWT-EventQueue-0] WykresPanel  - Kraj:Chiny, Liczba zakazonych:83,046, Liczba zgonow:4,634, Liczba uleczonych:78,357
+INFO    2020-06-10 17:29:46,456 [AWT-EventQueue-0] WykresPanel  - Kraj:Chile, Liczba zakazonych:142,759, Liczba zgonow:2,283, Liczba uleczonych:95,631
+INFO    2020-06-10 17:29:46,503 [AWT-EventQueue-0] WykresFrame  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:29:46,565 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zakazonych...
+INFO    2020-06-10 17:29:46,628 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zgonow...
+INFO    2020-06-10 17:29:46,659 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu wyleczonych...
+INFO    2020-06-10 17:30:00,180 [AWT-EventQueue-0] WykresFrame  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:30:00,227 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zakazonych...
+INFO    2020-06-10 17:30:00,258 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zgonow...
+INFO    2020-06-10 17:30:00,290 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu wyleczonych...
+INFO    2020-06-10 17:36:01,667 [pool-1-thread-1] CardPanel  - 1 proba połączenia z: https://www.worldometers.info/coronavirus/
+INFO    2020-06-10 17:36:04,387 [pool-1-thread-1] CardPanel  - Nawiązano połączenie z: https://www.worldometers.info/coronavirus/
+INFO    2020-06-10 17:36:04,387 [pool-1-thread-1] CardPanel  - Parsowanie...
+INFO    2020-06-10 17:36:14,540 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/germany/
+INFO    2020-06-10 17:36:16,293 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/germany/
+INFO    2020-06-10 17:36:16,294 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:36:27,418 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/russia/
+INFO    2020-06-10 17:36:27,660 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/russia/
+INFO    2020-06-10 17:36:27,660 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:36:27,815 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/poland/
+INFO    2020-06-10 17:36:28,436 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/poland/
+INFO    2020-06-10 17:36:28,436 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:36:28,575 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/slovakia/
+INFO    2020-06-10 17:36:29,148 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/slovakia/
+INFO    2020-06-10 17:36:29,148 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:36:29,292 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/us/
+INFO    2020-06-10 17:36:29,854 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/us/
+INFO    2020-06-10 17:36:29,854 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:36:30,121 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/brazil/
+INFO    2020-06-10 17:36:30,729 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/brazil/
+INFO    2020-06-10 17:36:30,729 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:36:30,960 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/spain/
+FATAL   2020-06-10 17:36:31,165 [pool-1-thread-1] CardPanel  - Nie można parsować strony https://www.worldometers.info/coronavirus/
+INFO    2020-06-10 17:36:31,561 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/spain/
+INFO    2020-06-10 17:36:31,562 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:36:31,672 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/uk/
+INFO    2020-06-10 17:36:32,258 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/uk/
+INFO    2020-06-10 17:36:32,258 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:36:32,389 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/italy/
+INFO    2020-06-10 17:36:32,634 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/italy/
+INFO    2020-06-10 17:36:32,634 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:36:32,750 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/france/
+INFO    2020-06-10 17:36:33,327 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/france/
+INFO    2020-06-10 17:36:33,327 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:36:33,598 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/turkey/
+INFO    2020-06-10 17:36:33,913 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/turkey/
+INFO    2020-06-10 17:36:33,913 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:36:34,109 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/india/
+INFO    2020-06-10 17:36:34,422 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/india/
+INFO    2020-06-10 17:36:34,422 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:36:34,657 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/iran/
+INFO    2020-06-10 17:36:35,350 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/iran/
+INFO    2020-06-10 17:36:35,350 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:36:35,604 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/canada/
+INFO    2020-06-10 17:36:36,342 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/canada/
+INFO    2020-06-10 17:36:36,342 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:36:36,655 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/china/
+INFO    2020-06-10 17:36:37,016 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/china/
+INFO    2020-06-10 17:36:37,017 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:36:37,340 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/chile/
+INFO    2020-06-10 17:36:38,529 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/chile/
+INFO    2020-06-10 17:36:38,529 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:36:41,893 [AWT-EventQueue-0] WykresPanel  - Kraj:Niemcy, Liczba zakazonych:186,525, Liczba zgonow:8,831, Liczba uleczonych:170,700
+INFO    2020-06-10 17:36:41,894 [AWT-EventQueue-0] WykresPanel  - Kraj:Rosja, Liczba zakazonych:493,657, Liczba zgonow:6,358, Liczba uleczonych:252,783
+INFO    2020-06-10 17:36:41,894 [AWT-EventQueue-0] WykresPanel  - Kraj:Polska, Liczba zakazonych:27,668, Liczba zgonow:1,191, Liczba uleczonych:13,411
+INFO    2020-06-10 17:36:41,894 [AWT-EventQueue-0] WykresPanel  - Kraj:Słowacja, Liczba zakazonych:1,533, Liczba zgonow:28, Liczba uleczonych:1,404
+INFO    2020-06-10 17:36:41,894 [AWT-EventQueue-0] WykresPanel  - Kraj:USA, Liczba zakazonych:2,049,121, Liczba zgonow:114,273, Liczba uleczonych:788,967
+INFO    2020-06-10 17:36:41,894 [AWT-EventQueue-0] WykresPanel  - Kraj:Brazylia, Liczba zakazonych:742,084, Liczba zgonow:38,497, Liczba uleczonych:325,602
+INFO    2020-06-10 17:36:41,894 [AWT-EventQueue-0] WykresPanel  - Kraj:Hiszpania, Liczba zakazonych:289,046, Liczba zgonow:27,136, Liczba uleczonych:N/A
+INFO    2020-06-10 17:36:41,894 [AWT-EventQueue-0] WykresPanel  - Kraj:UK, Liczba zakazonych:289,140, Liczba zgonow:40,883, Liczba uleczonych:N/A
+INFO    2020-06-10 17:36:41,894 [AWT-EventQueue-0] WykresPanel  - Kraj:Wlochy, Liczba zakazonych:235,561, Liczba zgonow:34,043, Liczba uleczonych:168,646
+INFO    2020-06-10 17:36:41,894 [AWT-EventQueue-0] WykresPanel  - Kraj:Francja, Liczba zakazonych:154,591, Liczba zgonow:29,296, Liczba uleczonych:71,506
+INFO    2020-06-10 17:36:41,894 [AWT-EventQueue-0] WykresPanel  - Kraj:Turcja, Liczba zakazonych:172,114, Liczba zgonow:4,729, Liczba uleczonych:144,598
+INFO    2020-06-10 17:36:41,894 [AWT-EventQueue-0] WykresPanel  - Kraj:Indie, Liczba zakazonych:284,322, Liczba zgonow:7,989, Liczba uleczonych:139,870
+INFO    2020-06-10 17:36:41,894 [AWT-EventQueue-0] WykresPanel  - Kraj:Iran, Liczba zakazonych:177,938, Liczba zgonow:8,506, Liczba uleczonych:140,590
+INFO    2020-06-10 17:36:41,895 [AWT-EventQueue-0] WykresPanel  - Kraj:Kanada, Liczba zakazonych:96,653, Liczba zgonow:7,897, Liczba uleczonych:55,572
+INFO    2020-06-10 17:36:41,895 [AWT-EventQueue-0] WykresPanel  - Kraj:Chiny, Liczba zakazonych:83,046, Liczba zgonow:4,634, Liczba uleczonych:78,357
+INFO    2020-06-10 17:36:41,895 [AWT-EventQueue-0] WykresPanel  - Kraj:Chile, Liczba zakazonych:142,759, Liczba zgonow:2,283, Liczba uleczonych:95,631
+INFO    2020-06-10 17:36:41,921 [AWT-EventQueue-0] WykresFrame  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:36:42,044 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zakazonych...
+INFO    2020-06-10 17:36:42,151 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zgonow...
+INFO    2020-06-10 17:36:42,190 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu wyleczonych...
+INFO    2020-06-10 17:36:48,451 [AWT-EventQueue-0] WykresFrame  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:36:48,595 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zakazonych...
+INFO    2020-06-10 17:36:48,637 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zgonow...
+INFO    2020-06-10 17:36:48,671 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu wyleczonych...
+INFO    2020-06-10 17:37:29,639 [pool-1-thread-2] CardPanel  - 1 proba połączenia z: https://www.worldometers.info/coronavirus/country/slovakia/
+INFO    2020-06-10 17:37:32,062 [pool-1-thread-2] CardPanel  - Nawiązano połączenie z: https://www.worldometers.info/coronavirus/country/slovakia/
+INFO    2020-06-10 17:37:32,062 [pool-1-thread-2] CardPanel  - Parsowanie...
+INFO    2020-06-10 17:37:41,207 [pool-1-thread-3] CardPanel  - 1 proba połączenia z: https://www.worldometers.info/coronavirus/country/poland/
+INFO    2020-06-10 17:37:42,363 [pool-1-thread-3] CardPanel  - Nawiązano połączenie z: https://www.worldometers.info/coronavirus/country/poland/
+INFO    2020-06-10 17:37:42,363 [pool-1-thread-3] CardPanel  - Parsowanie...
+INFO    2020-06-10 17:37:48,540 [pool-1-thread-1] CardPanel  - 1 proba połączenia z: https://www.worldometers.info/coronavirus/country/us/
+INFO    2020-06-10 17:37:49,133 [pool-1-thread-1] CardPanel  - Nawiązano połączenie z: https://www.worldometers.info/coronavirus/country/us/
+INFO    2020-06-10 17:37:49,133 [pool-1-thread-1] CardPanel  - Parsowanie...
+FATAL   2020-06-10 17:37:49,806 [pool-1-thread-1] CardPanel  - Dane się zmieniły!
+INFO    2020-06-10 17:37:49,806 [pool-1-thread-3] CardPanel  - 1 proba połączenia z: https://www.worldometers.info/coronavirus/country/spain/
+INFO    2020-06-10 17:37:50,416 [pool-1-thread-3] CardPanel  - Nawiązano połączenie z: https://www.worldometers.info/coronavirus/country/spain/
+INFO    2020-06-10 17:37:50,416 [pool-1-thread-3] CardPanel  - Parsowanie...
+FATAL   2020-06-10 17:37:50,529 [pool-1-thread-3] CardPanel  - Dane się zmieniły!
+INFO    2020-06-10 17:37:50,529 [pool-1-thread-2] CardPanel  - 1 proba połączenia z: https://www.worldometers.info/coronavirus/country/brazil/
+INFO    2020-06-10 17:37:52,181 [pool-1-thread-2] CardPanel  - Nawiązano połączenie z: https://www.worldometers.info/coronavirus/country/brazil/
+INFO    2020-06-10 17:37:52,182 [pool-1-thread-2] CardPanel  - Parsowanie...
+FATAL   2020-06-10 17:38:04,136 [pool-1-thread-2] CardPanel  - Dane się zmieniły!
+INFO    2020-06-10 17:38:04,136 [pool-1-thread-3] CardPanel  - 1 proba połączenia z: https://www.worldometers.info/coronavirus/country/france/
+INFO    2020-06-10 17:38:04,772 [pool-1-thread-3] CardPanel  - Nawiązano połączenie z: https://www.worldometers.info/coronavirus/country/france/
+INFO    2020-06-10 17:38:04,772 [pool-1-thread-3] CardPanel  - Parsowanie...
+FATAL   2020-06-10 17:38:05,092 [pool-1-thread-3] CardPanel  - Dane się zmieniły!
+INFO    2020-06-10 17:38:05,092 [pool-1-thread-1] CardPanel  - 1 proba połączenia z: https://www.worldometers.info/coronavirus/country/italy/
+INFO    2020-06-10 17:38:05,921 [AWT-EventQueue-0] WykresFrame  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:38:05,963 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zakazonych...
+INFO    2020-06-10 17:38:06,003 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zgonow...
+INFO    2020-06-10 17:38:06,033 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu wyleczonych...
+INFO    2020-06-10 17:38:06,272 [pool-1-thread-1] CardPanel  - Nawiązano połączenie z: https://www.worldometers.info/coronavirus/country/italy/
+INFO    2020-06-10 17:38:06,272 [pool-1-thread-1] CardPanel  - Parsowanie...
+FATAL   2020-06-10 17:38:10,908 [pool-1-thread-1] CardPanel  - Dane się zmieniły!
+INFO    2020-06-10 17:38:10,909 [pool-1-thread-4] CardPanel  - 1 proba połączenia z: https://www.worldometers.info/coronavirus/country/uk/
+INFO    2020-06-10 17:38:11,481 [pool-1-thread-4] CardPanel  - Nawiązano połączenie z: https://www.worldometers.info/coronavirus/country/uk/
+INFO    2020-06-10 17:38:11,481 [pool-1-thread-4] CardPanel  - Parsowanie...
+FATAL   2020-06-10 17:38:11,972 [pool-1-thread-4] CardPanel  - Dane się zmieniły!
+INFO    2020-06-10 17:38:26,065 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/germany/
+INFO    2020-06-10 17:38:26,305 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/germany/
+INFO    2020-06-10 17:38:26,306 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:38:26,427 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/russia/
+INFO    2020-06-10 17:38:26,971 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/russia/
+INFO    2020-06-10 17:38:26,971 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:38:28,228 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/poland/
+INFO    2020-06-10 17:38:28,575 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/poland/
+INFO    2020-06-10 17:38:28,575 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:38:30,739 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/slovakia/
+INFO    2020-06-10 17:38:31,978 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/slovakia/
+INFO    2020-06-10 17:38:31,978 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:38:32,186 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/us/
+INFO    2020-06-10 17:38:36,050 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/us/
+INFO    2020-06-10 17:38:36,050 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:38:37,171 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/brazil/
+INFO    2020-06-10 17:38:38,909 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/brazil/
+INFO    2020-06-10 17:38:38,909 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:38:39,130 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/spain/
+INFO    2020-06-10 17:38:39,849 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/spain/
+INFO    2020-06-10 17:38:39,849 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:38:39,991 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/uk/
+INFO    2020-06-10 17:38:40,732 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/uk/
+INFO    2020-06-10 17:38:40,732 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:38:40,963 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/italy/
+INFO    2020-06-10 17:38:41,703 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/italy/
+INFO    2020-06-10 17:38:41,703 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:38:41,972 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/france/
+INFO    2020-06-10 17:38:45,897 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/france/
+INFO    2020-06-10 17:38:45,897 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:38:46,935 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/turkey/
+INFO    2020-06-10 17:38:51,023 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/turkey/
+INFO    2020-06-10 17:38:51,023 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:38:51,534 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/india/
+INFO    2020-06-10 17:38:52,311 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/india/
+INFO    2020-06-10 17:38:52,311 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:38:53,353 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/iran/
+INFO    2020-06-10 17:38:54,087 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/iran/
+INFO    2020-06-10 17:38:54,087 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:38:54,204 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/canada/
+INFO    2020-06-10 17:38:55,952 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/canada/
+INFO    2020-06-10 17:38:55,952 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:38:59,417 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/china/
+INFO    2020-06-10 17:39:00,208 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/china/
+INFO    2020-06-10 17:39:00,208 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:39:01,676 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/chile/
+INFO    2020-06-10 17:39:01,889 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/chile/
+INFO    2020-06-10 17:39:01,889 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:39:02,054 [AWT-EventQueue-0] WykresPanel  - Kraj:Niemcy, Liczba zakazonych:186,525, Liczba zgonow:8,831, Liczba uleczonych:170,700
+INFO    2020-06-10 17:39:02,054 [AWT-EventQueue-0] WykresPanel  - Kraj:Rosja, Liczba zakazonych:493,657, Liczba zgonow:6,358, Liczba uleczonych:252,783
+INFO    2020-06-10 17:39:02,054 [AWT-EventQueue-0] WykresPanel  - Kraj:Polska, Liczba zakazonych:27,668, Liczba zgonow:1,191, Liczba uleczonych:13,411
+INFO    2020-06-10 17:39:02,054 [AWT-EventQueue-0] WykresPanel  - Kraj:Słowacja, Liczba zakazonych:1,533, Liczba zgonow:28, Liczba uleczonych:1,404
+INFO    2020-06-10 17:39:02,054 [AWT-EventQueue-0] WykresPanel  - Kraj:USA, Liczba zakazonych:2,049,121, Liczba zgonow:114,273, Liczba uleczonych:788,967
+INFO    2020-06-10 17:39:02,054 [AWT-EventQueue-0] WykresPanel  - Kraj:Brazylia, Liczba zakazonych:742,084, Liczba zgonow:38,497, Liczba uleczonych:325,602
+INFO    2020-06-10 17:39:02,054 [AWT-EventQueue-0] WykresPanel  - Kraj:Hiszpania, Liczba zakazonych:289,046, Liczba zgonow:27,136, Liczba uleczonych:N/A
+INFO    2020-06-10 17:39:02,054 [AWT-EventQueue-0] WykresPanel  - Kraj:UK, Liczba zakazonych:289,140, Liczba zgonow:40,883, Liczba uleczonych:N/A
+INFO    2020-06-10 17:39:02,054 [AWT-EventQueue-0] WykresPanel  - Kraj:Wlochy, Liczba zakazonych:235,561, Liczba zgonow:34,043, Liczba uleczonych:168,646
+INFO    2020-06-10 17:39:02,054 [AWT-EventQueue-0] WykresPanel  - Kraj:Francja, Liczba zakazonych:154,591, Liczba zgonow:29,296, Liczba uleczonych:71,506
+INFO    2020-06-10 17:39:02,054 [AWT-EventQueue-0] WykresPanel  - Kraj:Turcja, Liczba zakazonych:172,114, Liczba zgonow:4,729, Liczba uleczonych:144,598
+INFO    2020-06-10 17:39:02,055 [AWT-EventQueue-0] WykresPanel  - Kraj:Indie, Liczba zakazonych:284,322, Liczba zgonow:7,989, Liczba uleczonych:139,870
+INFO    2020-06-10 17:39:02,055 [AWT-EventQueue-0] WykresPanel  - Kraj:Iran, Liczba zakazonych:177,938, Liczba zgonow:8,506, Liczba uleczonych:140,590
+INFO    2020-06-10 17:39:02,055 [AWT-EventQueue-0] WykresPanel  - Kraj:Kanada, Liczba zakazonych:96,653, Liczba zgonow:7,897, Liczba uleczonych:55,572
+INFO    2020-06-10 17:39:02,055 [AWT-EventQueue-0] WykresPanel  - Kraj:Chiny, Liczba zakazonych:83,046, Liczba zgonow:4,634, Liczba uleczonych:78,357
+INFO    2020-06-10 17:39:02,055 [AWT-EventQueue-0] WykresPanel  - Kraj:Chile, Liczba zakazonych:142,759, Liczba zgonow:2,283, Liczba uleczonych:95,631
+INFO    2020-06-10 17:39:02,058 [AWT-EventQueue-0] WykresPanel  - Ponowne parsowanie informacji do wykresow
+INFO    2020-06-10 17:39:02,087 [AWT-EventQueue-0] WykresPanel  - Rysowanie wykresu zakazonych...
+INFO    2020-06-10 17:39:02,116 [AWT-EventQueue-0] WykresPanel  - Rysowanie wykresu zgonow...
+INFO    2020-06-10 17:39:02,145 [AWT-EventQueue-0] WykresPanel  - Rysowanie wykresu wyleczonych...
+INFO    2020-06-10 17:39:03,329 [AWT-EventQueue-0] WykresFrame  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:39:03,372 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zakazonych...
+INFO    2020-06-10 17:39:03,404 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zgonow...
+INFO    2020-06-10 17:39:03,429 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu wyleczonych...
+INFO    2020-06-10 17:39:14,548 [AWT-EventQueue-0] WykresFrame  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:39:14,592 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zakazonych...
+INFO    2020-06-10 17:39:14,626 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zgonow...
+INFO    2020-06-10 17:39:14,653 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu wyleczonych...
+INFO    2020-06-10 17:44:38,045 [AWT-EventQueue-0] WykresFrame  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:44:38,076 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zakazonych...
+INFO    2020-06-10 17:44:38,113 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zgonow...
+INFO    2020-06-10 17:44:38,134 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu wyleczonych...
+INFO    2020-06-10 17:44:44,747 [AWT-EventQueue-0] WykresFrame  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:44:44,781 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zakazonych...
+INFO    2020-06-10 17:44:44,813 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zgonow...
+INFO    2020-06-10 17:44:44,839 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu wyleczonych...
+INFO    2020-06-10 17:45:31,795 [AWT-EventQueue-0] WykresFrame  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:45:31,834 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zakazonych...
+INFO    2020-06-10 17:45:31,853 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zgonow...
+INFO    2020-06-10 17:45:31,876 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu wyleczonych...
+INFO    2020-06-10 17:45:58,568 [AWT-EventQueue-0] WykresFrame  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:45:58,600 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zakazonych...
+INFO    2020-06-10 17:45:58,629 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zgonow...
+INFO    2020-06-10 17:45:58,650 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu wyleczonych...
+INFO    2020-06-10 17:46:05,185 [pool-1-thread-2] CardPanel  - 1 proba połączenia z: https://www.worldometers.info/coronavirus/country/turkey/
+INFO    2020-06-10 17:46:05,407 [pool-1-thread-2] CardPanel  - Nawiązano połączenie z: https://www.worldometers.info/coronavirus/country/turkey/
+INFO    2020-06-10 17:46:05,407 [pool-1-thread-2] CardPanel  - Parsowanie...
+INFO    2020-06-10 17:46:07,219 [pool-1-thread-1] CardPanel  - 1 proba połączenia z: https://www.worldometers.info/coronavirus/country/india/
+INFO    2020-06-10 17:46:07,766 [pool-1-thread-1] CardPanel  - Nawiązano połączenie z: https://www.worldometers.info/coronavirus/country/india/
+INFO    2020-06-10 17:46:07,766 [pool-1-thread-1] CardPanel  - Parsowanie...
+INFO    2020-06-10 17:46:49,635 [AWT-EventQueue-0] WykresFrame  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:46:49,667 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zakazonych...
+INFO    2020-06-10 17:46:49,691 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zgonow...
+INFO    2020-06-10 17:46:49,715 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu wyleczonych...
+INFO    2020-06-10 17:47:00,930 [AWT-EventQueue-0] WykresFrame  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:47:00,954 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zakazonych...
+INFO    2020-06-10 17:47:00,980 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zgonow...
+INFO    2020-06-10 17:47:00,996 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu wyleczonych...
+INFO    2020-06-10 17:47:12,467 [AWT-EventQueue-0] WykresFrame  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:47:12,485 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zakazonych...
+INFO    2020-06-10 17:47:12,510 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zgonow...
+INFO    2020-06-10 17:47:12,529 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu wyleczonych...
+INFO    2020-06-10 17:47:25,143 [AWT-EventQueue-0] WykresFrame  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:47:25,165 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zakazonych...
+INFO    2020-06-10 17:47:25,187 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zgonow...
+INFO    2020-06-10 17:47:25,204 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu wyleczonych...
+INFO    2020-06-10 17:48:15,266 [pool-1-thread-1] CardPanel  - 1 proba połączenia z: https://www.worldometers.info/coronavirus/
+INFO    2020-06-10 17:48:17,807 [pool-1-thread-1] CardPanel  - Nawiązano połączenie z: https://www.worldometers.info/coronavirus/
+INFO    2020-06-10 17:48:17,808 [pool-1-thread-1] CardPanel  - Parsowanie...
+INFO    2020-06-10 17:48:23,879 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/germany/
+INFO    2020-06-10 17:48:24,503 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/germany/
+INFO    2020-06-10 17:48:24,503 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:48:24,662 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/russia/
+INFO    2020-06-10 17:48:24,937 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/russia/
+INFO    2020-06-10 17:48:24,937 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:48:25,070 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/poland/
+INFO    2020-06-10 17:48:25,640 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/poland/
+INFO    2020-06-10 17:48:25,640 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:48:25,771 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/slovakia/
+INFO    2020-06-10 17:48:26,356 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/slovakia/
+INFO    2020-06-10 17:48:26,356 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:48:26,392 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/us/
+INFO    2020-06-10 17:48:26,963 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/us/
+INFO    2020-06-10 17:48:26,963 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:48:27,225 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/brazil/
+INFO    2020-06-10 17:48:27,472 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/brazil/
+INFO    2020-06-10 17:48:27,472 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:48:27,601 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/spain/
+INFO    2020-06-10 17:48:27,824 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/spain/
+INFO    2020-06-10 17:48:27,824 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:48:27,946 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/uk/
+INFO    2020-06-10 17:48:28,142 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/uk/
+INFO    2020-06-10 17:48:28,142 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:48:28,164 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/italy/
+INFO    2020-06-10 17:48:28,381 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/italy/
+INFO    2020-06-10 17:48:28,382 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:48:28,499 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/france/
+INFO    2020-06-10 17:48:28,716 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/france/
+INFO    2020-06-10 17:48:28,716 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:48:28,841 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/turkey/
+INFO    2020-06-10 17:48:29,043 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/turkey/
+INFO    2020-06-10 17:48:29,043 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:48:29,082 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/india/
+INFO    2020-06-10 17:48:29,624 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/india/
+INFO    2020-06-10 17:48:29,624 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:48:29,749 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/iran/
+INFO    2020-06-10 17:48:30,310 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/iran/
+INFO    2020-06-10 17:48:30,310 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:48:30,432 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/canada/
+INFO    2020-06-10 17:48:31,002 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/canada/
+INFO    2020-06-10 17:48:31,002 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:48:31,124 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/china/
+INFO    2020-06-10 17:48:31,909 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/china/
+INFO    2020-06-10 17:48:31,909 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:48:31,932 [AWT-EventQueue-0] WykresPanel  - Proba polaczenia z: https://www.worldometers.info/coronavirus/country/chile/
+INFO    2020-06-10 17:48:32,123 [AWT-EventQueue-0] WykresPanel  - Nawiazano polaczenie z: https://www.worldometers.info/coronavirus/country/chile/
+INFO    2020-06-10 17:48:32,123 [AWT-EventQueue-0] WykresPanel  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:48:32,242 [AWT-EventQueue-0] WykresPanel  - Kraj:Niemcy, Liczba zakazonych:186,525, Liczba zgonow:8,831, Liczba uleczonych:170,700
+INFO    2020-06-10 17:48:32,242 [AWT-EventQueue-0] WykresPanel  - Kraj:Rosja, Liczba zakazonych:493,657, Liczba zgonow:6,358, Liczba uleczonych:252,783
+INFO    2020-06-10 17:48:32,242 [AWT-EventQueue-0] WykresPanel  - Kraj:Polska, Liczba zakazonych:27,668, Liczba zgonow:1,191, Liczba uleczonych:13,411
+INFO    2020-06-10 17:48:32,242 [AWT-EventQueue-0] WykresPanel  - Kraj:Słowacja, Liczba zakazonych:1,533, Liczba zgonow:28, Liczba uleczonych:1,404
+INFO    2020-06-10 17:48:32,242 [AWT-EventQueue-0] WykresPanel  - Kraj:USA, Liczba zakazonych:2,049,121, Liczba zgonow:114,273, Liczba uleczonych:788,967
+INFO    2020-06-10 17:48:32,243 [AWT-EventQueue-0] WykresPanel  - Kraj:Brazylia, Liczba zakazonych:742,084, Liczba zgonow:38,497, Liczba uleczonych:325,602
+INFO    2020-06-10 17:48:32,243 [AWT-EventQueue-0] WykresPanel  - Kraj:Hiszpania, Liczba zakazonych:289,046, Liczba zgonow:27,136, Liczba uleczonych:N/A
+INFO    2020-06-10 17:48:32,243 [AWT-EventQueue-0] WykresPanel  - Kraj:UK, Liczba zakazonych:289,140, Liczba zgonow:40,883, Liczba uleczonych:N/A
+INFO    2020-06-10 17:48:32,243 [AWT-EventQueue-0] WykresPanel  - Kraj:Wlochy, Liczba zakazonych:235,561, Liczba zgonow:34,043, Liczba uleczonych:168,646
+INFO    2020-06-10 17:48:32,243 [AWT-EventQueue-0] WykresPanel  - Kraj:Francja, Liczba zakazonych:154,591, Liczba zgonow:29,296, Liczba uleczonych:71,506
+INFO    2020-06-10 17:48:32,243 [AWT-EventQueue-0] WykresPanel  - Kraj:Turcja, Liczba zakazonych:172,114, Liczba zgonow:4,729, Liczba uleczonych:144,598
+INFO    2020-06-10 17:48:32,243 [AWT-EventQueue-0] WykresPanel  - Kraj:Indie, Liczba zakazonych:284,322, Liczba zgonow:7,989, Liczba uleczonych:139,870
+INFO    2020-06-10 17:48:32,243 [AWT-EventQueue-0] WykresPanel  - Kraj:Iran, Liczba zakazonych:177,938, Liczba zgonow:8,506, Liczba uleczonych:140,590
+INFO    2020-06-10 17:48:32,243 [AWT-EventQueue-0] WykresPanel  - Kraj:Kanada, Liczba zakazonych:96,653, Liczba zgonow:7,897, Liczba uleczonych:55,572
+INFO    2020-06-10 17:48:32,243 [AWT-EventQueue-0] WykresPanel  - Kraj:Chiny, Liczba zakazonych:83,046, Liczba zgonow:4,634, Liczba uleczonych:78,357
+INFO    2020-06-10 17:48:32,244 [AWT-EventQueue-0] WykresPanel  - Kraj:Chile, Liczba zakazonych:142,759, Liczba zgonow:2,283, Liczba uleczonych:95,631
+INFO    2020-06-10 17:48:32,270 [AWT-EventQueue-0] WykresFrame  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:48:32,415 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zakazonych...
+INFO    2020-06-10 17:48:32,518 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zgonow...
+INFO    2020-06-10 17:48:32,561 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu wyleczonych...
+INFO    2020-06-10 17:48:37,861 [AWT-EventQueue-0] WykresFrame  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:48:37,920 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zakazonych...
+INFO    2020-06-10 17:48:37,960 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zgonow...
+INFO    2020-06-10 17:48:38,012 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu wyleczonych...
+INFO    2020-06-10 17:49:02,882 [pool-1-thread-2] CardPanel  - 1 proba połączenia z: https://www.worldometers.info/coronavirus/country/germany/
+INFO    2020-06-10 17:49:03,519 [pool-1-thread-2] CardPanel  - Nawiązano połączenie z: https://www.worldometers.info/coronavirus/country/germany/
+INFO    2020-06-10 17:49:03,519 [pool-1-thread-2] CardPanel  - Parsowanie...
+INFO    2020-06-10 17:49:28,740 [AWT-EventQueue-0] WykresFrame  - Parsowanie informacji do wykresow
+INFO    2020-06-10 17:49:28,793 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zakazonych...
+INFO    2020-06-10 17:49:28,828 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu zgonow...
+INFO    2020-06-10 17:49:28,862 [AWT-EventQueue-0] WykresFrame  - Rysowanie wykresu wyleczonych...
